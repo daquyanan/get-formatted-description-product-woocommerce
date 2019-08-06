@@ -1,6 +1,6 @@
 <?php
 // After using hours to search, with a lot of keywords =))
-// I finally found an useful funciton: wpautop
+// I finally found an useful function: wpautop
 // That's really hard to find, because I started to developing my own theme, without knowing much about Wordpress, woocommerce, even about PHP
 // It's easy, just following the bellow code
 
